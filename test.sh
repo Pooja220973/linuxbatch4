@@ -4,3 +4,4 @@ echo "training"
 echo "hii"
 echo rebase
 echo pull
+echo pull rebase
